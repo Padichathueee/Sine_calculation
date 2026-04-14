@@ -1,2 +1,2 @@
 # Sine_calculation
-Sine calculation in embedded C
+Sine calculation in floating point microcontroller.
